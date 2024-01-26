@@ -209,5 +209,8 @@ ssl.truststore.password=testclient123
 [root@testkafka config]# bin/kafka-topics.sh --list --bootstrap-server testkafka.com:9092 --command-config /usr/local/kafka/config/kafka-client-ssl-properties
 ```
 
+Medium:
+
 Regards from,
+
 Ahosan Habib.
