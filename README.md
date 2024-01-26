@@ -209,7 +209,8 @@ ssl.truststore.password=testclient123
 [root@testkafka config]# bin/kafka-topics.sh --list --bootstrap-server testkafka.com:9092 --command-config /usr/local/kafka/config/kafka-client-ssl-properties
 ```
 
-Medium:
+Medium: https://medium.com/@ahosanhabib.974/enabling-ssl-tls-encryption-for-kafka-with-jks-8186ccc82dd1
+
 
 Regards from,
 
